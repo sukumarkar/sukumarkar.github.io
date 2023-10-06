@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. If you do clone this website, feel free to add an attribution link to your own downstream website in index.html if you want.
+Website design has been forked from Jon Barron (https://github.com/jonbarron/website) via Qasim Wani's fork (https://github.com/QasimWani/qasimwani.github.io). Feel free to clone this code for your personal use. 
