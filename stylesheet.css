@@ -126,6 +126,16 @@ name {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+.honeywell{
+  color: #EE3124;
+  font-style: italic;
+}
+
+.miko{
+  color: #002D62;
+  font-style: italic;
+}
+
 span.highlight {
   background-color: #ffffd0;
 }
