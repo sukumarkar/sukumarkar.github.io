@@ -52,6 +52,17 @@
         </tbody></table>
 
         <hr>
+
+        <div class="tabs">
+          <button class="tablinks" onclick="openDiv(event, 'Research')" id="researchTab">Research Projects</button>
+          <button class="tablinks" onclick="openDiv(event, 'Work')" id="workTab">Work Experience</button>
+        </div>
+
+        <script>
+          document.getElementById("workTab").click();
+        </script>
+
+        <div id="Research" class="tabcontent">
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
                 <tr>
@@ -144,8 +155,9 @@
           </tr>
 
       </tbody></table>
-
-      <hr>
+    </div>
+      
+    <div id="Work" class="tabcontent">
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
                 <tr>
@@ -276,6 +288,7 @@
           </tr>
 
       </tbody></table>
+    </div>
 
         <hr>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
