@@ -127,7 +127,12 @@ name {
 }
 
 .honeywell{
-  color: #EE3124;
+  color: #f11707;
+  font-style: italic;
+}
+
+.lg{
+  color:#d63f79;
   font-style: italic;
 }
 
